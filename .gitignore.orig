@@ -1,0 +1,7 @@
+/target
+<<<<<<< HEAD
+*.lock
+||||||| parent of 575bd84 (Working example linking with C)
+=======
+/.vscode
+>>>>>>> 575bd84 (Working example linking with C)

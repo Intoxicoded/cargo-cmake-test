@@ -13,3 +13,4 @@ license = "MIT"
 
 [build-dependencies]
 cmake = "0.1.50"
+built = { version = "0.6", features = ["git2", "chrono"] }
